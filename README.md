@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Pranay Vishwakarma, a passionate web developer always looking to learn, grow, and take on exciting new projects. If you find my work helpful or interesting, feel free to reach out or support me in any way! 
-💞️ I’m currently looking to collaborate on projects that can impact the lives of millions of people If you have ideas for meaningful projects, let's connect and build something amazing together! ⚡ Fun fact: I’m always excited to try new technologies, and I love experimenting with innovative solutions to real-world problems. When I’m not coding, you can usually find me exploring new web design trends, optimizing performance, or just having fun with tech!<br> 📧 Reach me: pranay.vishwakarma7400@gmail.com<br>Thank you for visiting my profile! Feel free to browse my repositories, check out <br>my work, and let me know if you'd like to collaborate. 😊<br>
+I'm Pranay Vishwakarma, a passionate web developer always looking to learn, grow, and take on exciting new projects. I’m always excited to try new technologies, and I love experimenting with innovative solutions to real-world problems. When I’m not coding, you can usually find me exploring new web design trends, optimizing performance, or just having fun with tech!<br> 📧 Reach me: pranay.vishwakarma7400@gmail.com<br>Thank you for visiting my profile! Feel free to browse my repositories, check out <br>my work, and let me know if you'd like to collaborate. 😊<br>
 
 
 ## 🌐 Socials:
