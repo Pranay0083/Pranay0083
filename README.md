@@ -1,10 +1,6 @@
 # 💫 About Me:
 I'm Pranay Vishwakarma, a passionate web developer always looking to learn, grow, and take on exciting new projects. I’m always excited to try new technologies, and I love experimenting with innovative solutions to real-world problems. When I’m not coding, you can usually find me exploring new web design trends, optimizing performance, or just having fun with tech!<br> 📧 Reach me: pranay.vishwakarma7400@gmail.com<br>Thank you for visiting my profile! Feel free to browse my repositories, check out <br>my work, and let me know if you'd like to collaborate. 😊<br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranay-vishwakarma/) 
-
 ## Skills
 
 ### Languages
@@ -48,7 +44,4 @@ I'm Pranay Vishwakarma, a passionate web developer always looking to learn, grow
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranay0083&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-### ☕ **Support My Work**  
-If you'd like to support my work and help me keep creating and sharing projects with the community, you can [Buy Me a Coffee](https://buymeacoffee.com/pranay0083). Your support means a lot and motivates me to keep pushing forward with new ideas and contributions!
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
