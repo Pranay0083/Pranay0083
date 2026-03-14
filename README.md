@@ -89,14 +89,6 @@ An e-learning platform built with React, designed to make education accessible a
 🔗 <a href="https://github.com/Pranay0083/Think-Box-an-E-learning-Platform">View Repository</a>
 </details>
 
-<details>
-<summary><b>🌐 Portfolio</b> — Personal portfolio website</summary>
-<br>
-My personal portfolio website showcasing projects, skills, and experience.
-<br><br>
-🔗 <a href="https://github.com/Pranay0083/Portfolio">View Repository</a>
-</details>
-
 ---
 
 ## 🤝 Collaborations
