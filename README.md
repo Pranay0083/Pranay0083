@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="panda-calling.jpg" alt="Panda Calling"/>
+  <img src="panda-calling.jpg" alt="Panda Calling" width="300"/>
 </p>
 
-<h1 align="center">Hi, I'm Pranay Vishwakarma 👋</h1>
+<h1 align="center">Hi, I'm Pranay 👋</h1>
 
 <p align="center">
   <em>Exploring the world of technology and innovation.</em>
