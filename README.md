@@ -49,6 +49,54 @@ A lightweight Chrome/Edge extension to completely remove YouTube Shorts from you
 🔗 <a href="https://github.com/Pranay0083/YouTube-shorts-blocker-extension">View Repository</a>
 </details>
 
+<details>
+<summary><b>🌿 Digital-wellbeing-for-browser</b> — Track your screen time across websites</summary>
+<br>
+A beautiful Chrome/Edge Manifest V3 browser extension that tracks your daily and weekly time on every website — so you can make more intentional choices about where your attention goes.
+<br><br>
+🔗 <a href="https://github.com/Pranay0083/Digital-wellbeing-for-browser">View Repository</a>
+</details>
+
+<details>
+<summary><b>✅ habit-tracker-and-todo</b> — Productivity app for habits & tasks</summary>
+<br>
+A full-featured productivity app with daily views, to-dos, habit tracking with streaks, and data insights — built to help you stay consistent and organized.
+<br><br>
+🔗 <a href="https://github.com/Pranay0083/habit-tracker-and-todo">View Repository</a>
+</details>
+
+<details>
+<summary><b>📅 Contest Calendar</b> — Aggregator for coding contests</summary>
+<br>
+A web application that aggregates upcoming coding contests from various competitive programming platforms. Includes API integration, Telegram bot notifications, and a clean frontend.
+<br><br>
+🔗 <a href="https://github.com/Pranay0083/contest-calender-frontend">View Repository</a>
+</details>
+
+<details>
+<summary><b>🖤 Cilo</b> — Premium fashion collection website</summary>
+<br>
+A premium, interactive web application built to showcase modern fashion collections with sleek design, smooth animations, and a polished user experience.
+<br><br>
+🔗 <a href="https://github.com/Pranay0083/Cilo-A-Fashion-Collection-Website">View Repository</a>
+</details>
+
+<details>
+<summary><b>📚 Think Box</b> — E-learning platform</summary>
+<br>
+An e-learning platform built with React, designed to make education accessible and engaging through a modern, interactive web interface.
+<br><br>
+🔗 <a href="https://github.com/Pranay0083/Think-Box-an-E-learning-Platform">View Repository</a>
+</details>
+
+<details>
+<summary><b>🌐 Portfolio</b> — Personal portfolio website</summary>
+<br>
+My personal portfolio website showcasing projects, skills, and experience.
+<br><br>
+🔗 <a href="https://github.com/Pranay0083/Portfolio">View Repository</a>
+</details>
+
 ---
 
 ## 🤝 Collaborations
