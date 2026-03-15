@@ -111,6 +111,27 @@ Data-driven analysis of nutrition patterns and obesity trends. Contributed insig
 
 ---
 
+## 🤝 Stats
+
+<div align="center">
+
+  <span>
+    <a href="#">
+      <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=pranay0083&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" />
+    </a>
+  </span>
+
+  <!-- Streak Stats -->
+  <span>
+    <a href="#">
+      <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pranay0083&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" />
+    </a>
+  </span>
+
+</div>
+
+---
+
 <p align="center">
   <em>Let's connect and collaborate! 😊</em>
 </p>
