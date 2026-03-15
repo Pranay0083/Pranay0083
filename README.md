@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>💻 CPU-Scheduler</b> — Interactive OS scheduling simulator</summary>
+<summary><b>CPU-Scheduler</b> — Interactive OS scheduling simulator</summary>
 <br>
 An interactive "peek under the hood" at how your computer manages a hundred tasks at once. Built with TypeScript for a smooth, educational dive into operating system concepts.
 <br><br>
@@ -26,7 +26,7 @@ An interactive "peek under the hood" at how your computer manages a hundred task
 </details>
 
 <details>
-<summary><b>🧠 CIFAR-10-subset-CNN-experiments</b> — CNN training on CIFAR-10</summary>
+<summary><b>CIFAR-10-subset-CNN-experiments</b> — CNN training on CIFAR-10</summary>
 <br>
 A hands-on exploration of training convolutional neural networks (CNNs) on a CIFAR-10 subset. Includes experiments with baseline models in Jupyter Notebooks—perfect for ML beginners.
 <br><br>
@@ -34,7 +34,7 @@ A hands-on exploration of training convolutional neural networks (CNNs) on a CIF
 </details>
 
 <details>
-<summary><b>📹 Video-call-transfer-protocol</b> — Custom protocol video calls</summary>
+<summary><b>Video-call-transfer-protocol</b> — Custom protocol video calls</summary>
 <br>
 A high-performance video calling app using a custom protocol (cvcp://) over raw TCP. Skips HTTP/HTTPS overhead for faster, more efficient real-time communication in JavaScript.
 <br><br>
@@ -42,7 +42,7 @@ A high-performance video calling app using a custom protocol (cvcp://) over raw 
 </details>
 
 <details>
-<summary><b>🚫 YouTube-shorts-blocker-extension</b> — Block Shorts from your feed</summary>
+<summary><b>YouTube-shorts-blocker-extension</b> — Block Shorts from your feed</summary>
 <br>
 A lightweight Chrome/Edge extension to completely remove YouTube Shorts from your feed. Reclaim your browsing time with this simple, effective JavaScript tool.
 <br><br>
@@ -50,7 +50,7 @@ A lightweight Chrome/Edge extension to completely remove YouTube Shorts from you
 </details>
 
 <details>
-<summary><b>🌿 Digital-wellbeing-for-browser</b> — Track your screen time across websites</summary>
+<summary><b>Digital-wellbeing-for-browser</b> — Track your screen time across websites</summary>
 <br>
 A beautiful Chrome/Edge Manifest V3 browser extension that tracks your daily and weekly time on every website — so you can make more intentional choices about where your attention goes.
 <br><br>
@@ -58,7 +58,7 @@ A beautiful Chrome/Edge Manifest V3 browser extension that tracks your daily and
 </details>
 
 <details>
-<summary><b>✅ habit-tracker-and-todo</b> — Productivity app for habits & tasks</summary>
+<summary><b>Habit-tracker-and-todo</b> — Productivity app for habits & tasks</summary>
 <br>
 A full-featured productivity app with daily views, to-dos, habit tracking with streaks, and data insights — built to help you stay consistent and organized.
 <br><br>
@@ -66,7 +66,7 @@ A full-featured productivity app with daily views, to-dos, habit tracking with s
 </details>
 
 <details>
-<summary><b>📅 Contest Calendar</b> — Aggregator for coding contests</summary>
+<summary><b>Contest Calendar</b> — Aggregator for coding contests</summary>
 <br>
 A web application that aggregates upcoming coding contests from various competitive programming platforms. Includes API integration, Telegram bot notifications, and a clean frontend.
 <br><br>
@@ -74,7 +74,7 @@ A web application that aggregates upcoming coding contests from various competit
 </details>
 
 <details>
-<summary><b>🖤 Cilo</b> — Premium fashion collection website</summary>
+<summary><b>Cilo</b> — Premium fashion collection website</summary>
 <br>
 A premium, interactive web application built to showcase modern fashion collections with sleek design, smooth animations, and a polished user experience.
 <br><br>
@@ -82,7 +82,7 @@ A premium, interactive web application built to showcase modern fashion collecti
 </details>
 
 <details>
-<summary><b>📚 Think Box</b> — E-learning platform</summary>
+<summary><b>Think Box</b> — E-learning platform</summary>
 <br>
 An e-learning platform built with React, designed to make education accessible and engaging through a modern, interactive web interface.
 <br><br>
@@ -94,7 +94,7 @@ An e-learning platform built with React, designed to make education accessible a
 ## 🤝 Collaborations
 
 <details>
-<summary><b>🤝 OKernel</b> — Impact in education through tech</summary>
+<summary><b>OKernel</b> — Impact in education through tech</summary>
 <br>
 A project aimed at making an impact in education through tech. Forked and contributed to with TypeScript—exploring innovative learning tools.
 <br><br>
@@ -102,7 +102,7 @@ A project aimed at making an impact in education through tech. Forked and contri
 </details>
 
 <details>
-<summary><b>📈 Nutrition-and-Obesity-Trends</b> — Data-driven health analysis</summary>
+<summary><b>Nutrition-and-Obesity-Trends</b> — Data-driven health analysis</summary>
 <br>
 Data-driven analysis of nutrition patterns and obesity trends. Contributed insights via Jupyter Notebooks to uncover key health correlations.
 <br><br>
